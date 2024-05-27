@@ -1,0 +1,45 @@
+.c-item{
+    height: 480px;
+}
+
+c-img{
+    height: 100%;
+   object-fit: cover; 
+}
+
+.navbar{
+    background: rgb(3, 3, 49);
+}
+
+.col1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.col2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.col4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.col5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.col6{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.carousel-header {
+color: black;
+}
+
+.card-body{
+    padding-top: 0;
+}
+
+
+
+
+
